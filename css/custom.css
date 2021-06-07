@@ -1,0 +1,20 @@
+@font-face{
+    font-family: Ubuntu;
+    src: url(../fonts/Ubuntu-Light.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Ubuntu;
+}
+
+.bg-img{
+    background-image: url(../img/10987114-c2bb-47ab-b7e1-d85b1b76d875.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20em;
+}
