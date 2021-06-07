@@ -10,6 +10,9 @@
 body{
     font-family: Ubuntu;
 }
+button{
+    border-radius: 30px !important;
+}
 
 .bg-img{
     background-image: url(../img/10987114-c2bb-47ab-b7e1-d85b1b76d875.JPG);
@@ -17,4 +20,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20em;
+}
+.bg-black{
+    background-color: black;
+}
+.img-scale{
+    width: 300px;
+    height: 300px;
 }
