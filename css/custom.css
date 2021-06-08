@@ -6,11 +6,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 body{
     font-family: Ubuntu;
 }
-button{
+.pilot-section{
     border-radius: 30px !important;
 }
 
@@ -23,6 +24,9 @@ button{
 }
 .bg-black{
     background-color: black;
+}
+.bg-section{
+    background-color: #fd7e14;
 }
 .img-scale{
     width: 300px;
